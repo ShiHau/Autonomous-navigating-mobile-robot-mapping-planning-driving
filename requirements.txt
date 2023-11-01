@@ -1,0 +1,13 @@
+opencv-contrib-python==4.6.0.66
+pygame==2.5.0
+requests==2.31.0
+machinevision-toolbox-python==0.5.5 
+spatialmath-python==0.8.9 
+matplotlib==3.6.3
+h5py==3.9.0
+tqdm==4.66.1 
+torch==2.0.1
+torchvision==0.15.2
+-U PyYAML==6.0.1
+pandas==2.1.0
+numpy==1.22.4
