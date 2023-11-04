@@ -1,0 +1,4 @@
+sudo pip install bottle
+sudo pip install opencv-python
+sudo pip install -U numpy
+sudo apt-get install libatlas-base-dev
